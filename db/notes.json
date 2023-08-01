@@ -1,6 +1,22 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Laundry",
+        "text": "Do some laundry",
+        "note_id": "f541d385-48ed-46b8-a7fd-4dd8999909ac"
+    },
+    {
+        "title": "Cooking",
+        "text": "Do cooking",
+        "note_id": "741c7242-852f-426e-970e-7424d3bc9ab1"
+    },
+    {
+        "title": "Grocery",
+        "text": "Buy some groceries",
+        "note_id": "437ee945-e409-4926-8e3c-db5e2be404db"
+    },
+    {
+        "title": "Reading",
+        "text": "Read a book",
+        "note_id": "cbdcb81f-5d15-4a6c-badd-c8acaef36f56"
     }
 ]
