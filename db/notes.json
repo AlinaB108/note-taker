@@ -1,22 +1,22 @@
 [
     {
-        "title": "Laundry",
-        "text": "Do some laundry",
-        "note_id": "f541d385-48ed-46b8-a7fd-4dd8999909ac"
+        "title": "Reschedule delivery",
+        "text": "Reschedule delivery from Monday to Wednesday",
+        "note_id": "3670601c-a02e-4643-8d09-93067246b142"
     },
     {
-        "title": "Cooking",
-        "text": "Do cooking",
-        "note_id": "741c7242-852f-426e-970e-7424d3bc9ab1"
+        "title": "Check in with clients",
+        "text": "Call Ann and Jack",
+        "note_id": "9caa9c65-141d-49a0-9507-5fe6c6cea149"
     },
     {
-        "title": "Grocery",
-        "text": "Buy some groceries",
-        "note_id": "437ee945-e409-4926-8e3c-db5e2be404db"
+        "title": "Call bank",
+        "text": "Call bank on Friday",
+        "note_id": "1c407681-b9eb-4359-89b9-751120ff871f"
     },
     {
-        "title": "Reading",
-        "text": "Read a book",
-        "note_id": "cbdcb81f-5d15-4a6c-badd-c8acaef36f56"
+        "title": "Post new reviews",
+        "text": "Post new reviews from customers",
+        "note_id": "f4bc819d-eb36-4421-8cb2-c700c2be21c6"
     }
 ]
