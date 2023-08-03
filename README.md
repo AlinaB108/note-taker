@@ -15,6 +15,7 @@ The notes are written to a JSON file which make them accessible when the page is
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Credits](#credits)
 - [License](#license)
 - [Questions](#questions)
 
@@ -37,6 +38,8 @@ npm i uuid@8.3.2
 ```
 
 ## Usage
+The deployes site [Note Taker](https://note-taker-ab-047fa5e730bc.herokuapp.com/)
+
 Click Get Started on the Main page and you will be redirected to Notes page.
 There, click the "+" button to add a new note. Be sure to enter title and the note text, then click the save icon.
 
@@ -53,6 +56,8 @@ Saved notes will be on the left side of the page. When you click on a saved note
 5. Push to the branch.
 6. Create a pull request.
 
+## Credits
+Frontend side of the code belongs to UT Coding Bootcamp.
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
