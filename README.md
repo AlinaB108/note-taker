@@ -65,4 +65,4 @@ Frontend side of the code belongs to UT Coding Bootcamp.
 https://opensource.org/licenses/MIT 
     
 ## Questions
-If you have any questions, send me a message [GitHub](https://github.com/abc) or send me an email: [alinachristabel108@gmail.com](alinachristabel108@gmail.com)
+If you have any questions, send me a message [GitHub](https://github.com/AlinaB108) or send me an email: [alinachristabel108@gmail.com](alinachristabel108@gmail.com)
